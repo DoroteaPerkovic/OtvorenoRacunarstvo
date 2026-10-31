@@ -1,0 +1,105 @@
+album_id,naziv_albuma,godina,jezik,ocjena,izvodac,drzava_izvodaca,godina_osnutka_izvodaca,zanrovi,redni_broj_pjesme,naslov_pjesme,trajanje_pjesme_s
+1,Waterloo,1974,engleski,7.5,ABBA,Švedska,1972,Pop; Rock,1,Waterloo,164
+1,Waterloo,1974,engleski,7.5,ABBA,Švedska,1972,Pop; Rock,2,Sitting in the Palmtree,217
+1,Waterloo,1974,engleski,7.5,ABBA,Švedska,1972,Pop; Rock,3,King Kong Song,191
+1,Waterloo,1974,engleski,7.5,ABBA,Švedska,1972,Pop; Rock,4,Hasta Mañana,189
+1,Waterloo,1974,engleski,7.5,ABBA,Švedska,1972,Pop; Rock,5,My Mama Said,193
+1,Waterloo,1974,engleski,7.5,ABBA,Švedska,1972,Pop; Rock,6,Dance (While the Music Still Goes On),192
+1,Waterloo,1974,engleski,7.5,ABBA,Švedska,1972,Pop; Rock,7,"Honey, Honey",175
+1,Waterloo,1974,engleski,7.5,ABBA,Švedska,1972,Pop; Rock,8,Watch Out,229
+1,Waterloo,1974,engleski,7.5,ABBA,Švedska,1972,Pop; Rock,9,What About Livingstone?,175
+1,Waterloo,1974,engleski,7.5,ABBA,Švedska,1972,Pop; Rock,10,Gonna Sing You My Lovesong,221
+1,Waterloo,1974,engleski,7.5,ABBA,Švedska,1972,Pop; Rock,11,Suzy-Hang-Around,190
+2,Voulez-Vous,1979,engleski,10.0,ABBA,Švedska,1972,Disco; Pop,1,As Good as New,204
+2,Voulez-Vous,1979,engleski,10.0,ABBA,Švedska,1972,Disco; Pop,2,Voulez-Vous,309
+2,Voulez-Vous,1979,engleski,10.0,ABBA,Švedska,1972,Disco; Pop,3,I Have a Dream,285
+2,Voulez-Vous,1979,engleski,10.0,ABBA,Švedska,1972,Disco; Pop,4,Angeleyes,260
+2,Voulez-Vous,1979,engleski,10.0,ABBA,Švedska,1972,Disco; Pop,5,The King Has Lost His Crown,212
+2,Voulez-Vous,1979,engleski,10.0,ABBA,Švedska,1972,Disco; Pop,6,Does Your Mother Know,193
+2,Voulez-Vous,1979,engleski,10.0,ABBA,Švedska,1972,Disco; Pop,7,If It Wasn't for the Nights,309
+2,Voulez-Vous,1979,engleski,10.0,ABBA,Švedska,1972,Disco; Pop,8,Chiquitita,326
+2,Voulez-Vous,1979,engleski,10.0,ABBA,Švedska,1972,Disco; Pop,9,Lovers (Live a Little Longer),210
+2,Voulez-Vous,1979,engleski,10.0,ABBA,Švedska,1972,Disco; Pop,10,Kisses of Fire,196
+3,Catching Rays on Giant,2010,engleski,8.2,Alphaville,Njemačka,1982,Pop,1,Song for No One,212
+3,Catching Rays on Giant,2010,engleski,8.2,Alphaville,Njemačka,1982,Pop,2,I Die for You Today,227
+3,Catching Rays on Giant,2010,engleski,8.2,Alphaville,Njemačka,1982,Pop,3,End of the World,239
+3,Catching Rays on Giant,2010,engleski,8.2,Alphaville,Njemačka,1982,Pop,4,The Things I Didn't Do,280
+3,Catching Rays on Giant,2010,engleski,8.2,Alphaville,Njemačka,1982,Pop,5,Heaven on Earth (The Things We've Got to Do),285
+3,Catching Rays on Giant,2010,engleski,8.2,Alphaville,Njemačka,1982,Pop,6,The Deep,263
+3,Catching Rays on Giant,2010,engleski,8.2,Alphaville,Njemačka,1982,Pop,7,Call Me,227
+3,Catching Rays on Giant,2010,engleski,8.2,Alphaville,Njemačka,1982,Pop,8,Gravitation Breakdown,255
+3,Catching Rays on Giant,2010,engleski,8.2,Alphaville,Njemačka,1982,Pop,9,Carry Your Flag,293
+3,Catching Rays on Giant,2010,engleski,8.2,Alphaville,Njemačka,1982,Pop,10,Call Me Down,271
+3,Catching Rays on Giant,2010,engleski,8.2,Alphaville,Njemačka,1982,Pop,11,Phantoms,219
+3,Catching Rays on Giant,2010,engleski,8.2,Alphaville,Njemačka,1982,Pop,12,Miracle Healing,304
+4,Look Sharp,1988,engleski,8.0,Roxette,Švedska,1986,Pop; Rock,1,The Look,237
+4,Look Sharp,1988,engleski,8.0,Roxette,Švedska,1986,Pop; Rock,2,Dressed for Success,249
+4,Look Sharp,1988,engleski,8.0,Roxette,Švedska,1986,Pop; Rock,3,Sleeping Single,278
+4,Look Sharp,1988,engleski,8.0,Roxette,Švedska,1986,Pop; Rock,4,Paint,210
+4,Look Sharp,1988,engleski,8.0,Roxette,Švedska,1986,Pop; Rock,5,Dance Away,205
+4,Look Sharp,1988,engleski,8.0,Roxette,Švedska,1986,Pop; Rock,6,Cry,319
+4,Look Sharp,1988,engleski,8.0,Roxette,Švedska,1986,Pop; Rock,7,Chances,297
+4,Look Sharp,1988,engleski,8.0,Roxette,Švedska,1986,Pop; Rock,8,Dangerous,228
+4,Look Sharp,1988,engleski,8.0,Roxette,Švedska,1986,Pop; Rock,9,"Half a Woman, Half a Shadow",215
+4,Look Sharp,1988,engleski,8.0,Roxette,Švedska,1986,Pop; Rock,10,View from a Hill,220
+4,Look Sharp,1988,engleski,8.0,Roxette,Švedska,1986,Pop; Rock,11,Shadow of a Doubt,254
+4,Look Sharp,1988,engleski,8.0,Roxette,Švedska,1986,Pop; Rock,12,Listen to Your Heart,328
+5,Joyride,1991,engleski,7.3,Roxette,Švedska,1986,Pop; Rock,1,Joyride,264
+5,Joyride,1991,engleski,7.3,Roxette,Švedska,1986,Pop; Rock,2,Hotblooded,198
+5,Joyride,1991,engleski,7.3,Roxette,Švedska,1986,Pop; Rock,3,Fading Like a Flower (Every Time You Leave),232
+5,Joyride,1991,engleski,7.3,Roxette,Švedska,1986,Pop; Rock,4,Knockin' on Every Door,236
+5,Joyride,1991,engleski,7.3,Roxette,Švedska,1986,Pop; Rock,5,Spending My Time,276
+5,Joyride,1991,engleski,7.3,Roxette,Švedska,1986,Pop; Rock,6,I Remember You,234
+5,Joyride,1991,engleski,7.3,Roxette,Švedska,1986,Pop; Rock,7,Watercolours in the Rain,220
+5,Joyride,1991,engleski,7.3,Roxette,Švedska,1986,Pop; Rock,8,The Big L.,266
+5,Joyride,1991,engleski,7.3,Roxette,Švedska,1986,Pop; Rock,9,Soul Deep,214
+5,Joyride,1991,engleski,7.3,Roxette,Švedska,1986,Pop; Rock,10,(Do You Get) Excited?,256
+5,Joyride,1991,engleski,7.3,Roxette,Švedska,1986,Pop; Rock,11,Church of Your Heart,196
+5,Joyride,1991,engleski,7.3,Roxette,Švedska,1986,Pop; Rock,12,Small Talk,233
+5,Joyride,1991,engleski,7.3,Roxette,Švedska,1986,Pop; Rock,13,Physical Fascination,207
+5,Joyride,1991,engleski,7.3,Roxette,Švedska,1986,Pop; Rock,14,Things Will Never Be the Same,266
+5,Joyride,1991,engleski,7.3,Roxette,Švedska,1986,Pop; Rock,15,Perfect Day,245
+6,Ljubavna pjesma,1975,hrvatski,7.2,Oliver Dragojević,Hrvatska,1974,Zabavna glazba,1,Ljubavna pjesma,243
+6,Ljubavna pjesma,1975,hrvatski,7.2,Oliver Dragojević,Hrvatska,1974,Zabavna glazba,2,Picaferaj,200
+6,Ljubavna pjesma,1975,hrvatski,7.2,Oliver Dragojević,Hrvatska,1974,Zabavna glazba,3,Djeca jednog vijeka,181
+6,Ljubavna pjesma,1975,hrvatski,7.2,Oliver Dragojević,Hrvatska,1974,Zabavna glazba,4,Bila je jesen,154
+6,Ljubavna pjesma,1975,hrvatski,7.2,Oliver Dragojević,Hrvatska,1974,Zabavna glazba,5,"Ne žuri, djevojčice",291
+6,Ljubavna pjesma,1975,hrvatski,7.2,Oliver Dragojević,Hrvatska,1974,Zabavna glazba,6,Ksantipa,202
+6,Ljubavna pjesma,1975,hrvatski,7.2,Oliver Dragojević,Hrvatska,1974,Zabavna glazba,7,Meni trebaš ti,201
+6,Ljubavna pjesma,1975,hrvatski,7.2,Oliver Dragojević,Hrvatska,1974,Zabavna glazba,8,Prisjećam se noćas,134
+6,Ljubavna pjesma,1975,hrvatski,7.2,Oliver Dragojević,Hrvatska,1974,Zabavna glazba,9,Znam da me voliš,212
+7,Anđeli se dosađuju?,1987,hrvatski,6.0,Parni valjak,Hrvatska,1975,Pop; Rock,1,Anđeli se dosađuju?,221
+7,Anđeli se dosađuju?,1987,hrvatski,6.0,Parni valjak,Hrvatska,1975,Pop; Rock,2,Anja,211
+7,Anđeli se dosađuju?,1987,hrvatski,6.0,Parni valjak,Hrvatska,1975,Pop; Rock,3,Kada me dotakne,327
+7,Anđeli se dosađuju?,1987,hrvatski,6.0,Parni valjak,Hrvatska,1975,Pop; Rock,4,Navigator,219
+7,Anđeli se dosađuju?,1987,hrvatski,6.0,Parni valjak,Hrvatska,1975,Pop; Rock,5,Jesen u meni,270
+7,Anđeli se dosađuju?,1987,hrvatski,6.0,Parni valjak,Hrvatska,1975,Pop; Rock,6,Zagreb ima isti pozivni,231
+7,Anđeli se dosađuju?,1987,hrvatski,6.0,Parni valjak,Hrvatska,1975,Pop; Rock,7,Nova kola,288
+7,Anđeli se dosađuju?,1987,hrvatski,6.0,Parni valjak,Hrvatska,1975,Pop; Rock,8,Tvoji koraci,269
+8,Faith,1987,engleski,8.6,George Michael,Ujedinjeno Kraljevstvo,1982,Funk; Pop; Rock,1,Faith,196
+8,Faith,1987,engleski,8.6,George Michael,Ujedinjeno Kraljevstvo,1982,Funk; Pop; Rock,2,Father Figure,336
+8,Faith,1987,engleski,8.6,George Michael,Ujedinjeno Kraljevstvo,1982,Funk; Pop; Rock,3,One More Try,350
+8,Faith,1987,engleski,8.6,George Michael,Ujedinjeno Kraljevstvo,1982,Funk; Pop; Rock,4,Hard Day,288
+8,Faith,1987,engleski,8.6,George Michael,Ujedinjeno Kraljevstvo,1982,Funk; Pop; Rock,5,Hand to Mouth,276
+8,Faith,1987,engleski,8.6,George Michael,Ujedinjeno Kraljevstvo,1982,Funk; Pop; Rock,6,Look at Your Hands,277
+8,Faith,1987,engleski,8.6,George Michael,Ujedinjeno Kraljevstvo,1982,Funk; Pop; Rock,7,Monkey,306
+9,Voyage,2021,engleski,4.8,ABBA,Švedska,1972,Disco; Pop,1,I Still Have Faith in You,308
+9,Voyage,2021,engleski,4.8,ABBA,Švedska,1972,Disco; Pop,2,When You Danced with Me,169
+9,Voyage,2021,engleski,4.8,ABBA,Švedska,1972,Disco; Pop,3,Little Things,188
+9,Voyage,2021,engleski,4.8,ABBA,Švedska,1972,Disco; Pop,4,Don't Shut Me Down,239
+9,Voyage,2021,engleski,4.8,ABBA,Švedska,1972,Disco; Pop,5,Just a Notion,209
+9,Voyage,2021,engleski,4.8,ABBA,Švedska,1972,Disco; Pop,6,I Can Be That Woman,244
+9,Voyage,2021,engleski,4.8,ABBA,Švedska,1972,Disco; Pop,7,Keep an Eye on Dan,241
+9,Voyage,2021,engleski,4.8,ABBA,Švedska,1972,Disco; Pop,8,Bumblebee,237
+9,Voyage,2021,engleski,4.8,ABBA,Švedska,1972,Disco; Pop,9,No Doubt About It,172
+9,Voyage,2021,engleski,4.8,ABBA,Švedska,1972,Disco; Pop,10,Ode to Freedom,211
+10,Forever Young,1984,engleski,6.0,Alphaville,Njemačka,1982,Pop,1,A Victory of Love,254
+10,Forever Young,1984,engleski,6.0,Alphaville,Njemačka,1982,Pop,2,Summer in Berlin,282
+10,Forever Young,1984,engleski,6.0,Alphaville,Njemačka,1982,Pop,3,Big in Japan,280
+10,Forever Young,1984,engleski,6.0,Alphaville,Njemačka,1982,Pop,4,To Germany with Love,255
+10,Forever Young,1984,engleski,6.0,Alphaville,Njemačka,1982,Pop,5,Fallen Angel,235
+10,Forever Young,1984,engleski,6.0,Alphaville,Njemačka,1982,Pop,6,Forever Young,225
+10,Forever Young,1984,engleski,6.0,Alphaville,Njemačka,1982,Pop,7,In the Mood,269
+10,Forever Young,1984,engleski,6.0,Alphaville,Njemačka,1982,Pop,8,Sounds Like a Melody,282
+10,Forever Young,1984,engleski,6.0,Alphaville,Njemačka,1982,Pop,9,Lies,212
+10,Forever Young,1984,engleski,6.0,Alphaville,Njemačka,1982,Pop,10,The Jet Set,292

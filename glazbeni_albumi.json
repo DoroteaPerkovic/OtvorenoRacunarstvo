@@ -1,0 +1,700 @@
+[
+  {
+    "album_id": 1,
+    "naziv_albuma": "Waterloo",
+    "godina": 1974,
+    "jezik": "engleski",
+    "ocjena": 7.5,
+    "izvodac": {
+      "ime": "ABBA",
+      "drzava_izvodaca": "Švedska",
+      "godina_osnutka_izvodaca": 1972
+    },
+    "zanrovi": [
+      "Pop",
+      "Rock"
+    ],
+    "pjesme": [
+      {
+        "redni_broj_pjesme": 1,
+        "naslov_pjesme": "Waterloo",
+        "trajanje_pjesme_s": 164
+      },
+      {
+        "redni_broj_pjesme": 2,
+        "naslov_pjesme": "Sitting in the Palmtree",
+        "trajanje_pjesme_s": 217
+      },
+      {
+        "redni_broj_pjesme": 3,
+        "naslov_pjesme": "King Kong Song",
+        "trajanje_pjesme_s": 191
+      },
+      {
+        "redni_broj_pjesme": 4,
+        "naslov_pjesme": "Hasta Mañana",
+        "trajanje_pjesme_s": 189
+      },
+      {
+        "redni_broj_pjesme": 5,
+        "naslov_pjesme": "My Mama Said",
+        "trajanje_pjesme_s": 193
+      },
+      {
+        "redni_broj_pjesme": 6,
+        "naslov_pjesme": "Dance (While the Music Still Goes On)",
+        "trajanje_pjesme_s": 192
+      },
+      {
+        "redni_broj_pjesme": 7,
+        "naslov_pjesme": "Honey, Honey",
+        "trajanje_pjesme_s": 175
+      },
+      {
+        "redni_broj_pjesme": 8,
+        "naslov_pjesme": "Watch Out",
+        "trajanje_pjesme_s": 229
+      },
+      {
+        "redni_broj_pjesme": 9,
+        "naslov_pjesme": "What About Livingstone?",
+        "trajanje_pjesme_s": 175
+      },
+      {
+        "redni_broj_pjesme": 10,
+        "naslov_pjesme": "Gonna Sing You My Lovesong",
+        "trajanje_pjesme_s": 221
+      },
+      {
+        "redni_broj_pjesme": 11,
+        "naslov_pjesme": "Suzy-Hang-Around",
+        "trajanje_pjesme_s": 190
+      }
+    ]
+  },
+  {
+    "album_id": 2,
+    "naziv_albuma": "Voulez-Vous",
+    "godina": 1979,
+    "jezik": "engleski",
+    "ocjena": 10.0,
+    "izvodac": {
+      "ime": "ABBA",
+      "drzava_izvodaca": "Švedska",
+      "godina_osnutka_izvodaca": 1972
+    },
+    "zanrovi": [
+      "Disco",
+      "Pop"
+    ],
+    "pjesme": [
+      {
+        "redni_broj_pjesme": 1,
+        "naslov_pjesme": "As Good as New",
+        "trajanje_pjesme_s": 204
+      },
+      {
+        "redni_broj_pjesme": 2,
+        "naslov_pjesme": "Voulez-Vous",
+        "trajanje_pjesme_s": 309
+      },
+      {
+        "redni_broj_pjesme": 3,
+        "naslov_pjesme": "I Have a Dream",
+        "trajanje_pjesme_s": 285
+      },
+      {
+        "redni_broj_pjesme": 4,
+        "naslov_pjesme": "Angeleyes",
+        "trajanje_pjesme_s": 260
+      },
+      {
+        "redni_broj_pjesme": 5,
+        "naslov_pjesme": "The King Has Lost His Crown",
+        "trajanje_pjesme_s": 212
+      },
+      {
+        "redni_broj_pjesme": 6,
+        "naslov_pjesme": "Does Your Mother Know",
+        "trajanje_pjesme_s": 193
+      },
+      {
+        "redni_broj_pjesme": 7,
+        "naslov_pjesme": "If It Wasn't for the Nights",
+        "trajanje_pjesme_s": 309
+      },
+      {
+        "redni_broj_pjesme": 8,
+        "naslov_pjesme": "Chiquitita",
+        "trajanje_pjesme_s": 326
+      },
+      {
+        "redni_broj_pjesme": 9,
+        "naslov_pjesme": "Lovers (Live a Little Longer)",
+        "trajanje_pjesme_s": 210
+      },
+      {
+        "redni_broj_pjesme": 10,
+        "naslov_pjesme": "Kisses of Fire",
+        "trajanje_pjesme_s": 196
+      }
+    ]
+  },
+  {
+    "album_id": 3,
+    "naziv_albuma": "Catching Rays on Giant",
+    "godina": 2010,
+    "jezik": "engleski",
+    "ocjena": 8.2,
+    "izvodac": {
+      "ime": "Alphaville",
+      "drzava_izvodaca": "Njemačka",
+      "godina_osnutka_izvodaca": 1982
+    },
+    "zanrovi": [
+      "Pop"
+    ],
+    "pjesme": [
+      {
+        "redni_broj_pjesme": 1,
+        "naslov_pjesme": "Song for No One",
+        "trajanje_pjesme_s": 212
+      },
+      {
+        "redni_broj_pjesme": 2,
+        "naslov_pjesme": "I Die for You Today",
+        "trajanje_pjesme_s": 227
+      },
+      {
+        "redni_broj_pjesme": 3,
+        "naslov_pjesme": "End of the World",
+        "trajanje_pjesme_s": 239
+      },
+      {
+        "redni_broj_pjesme": 4,
+        "naslov_pjesme": "The Things I Didn't Do",
+        "trajanje_pjesme_s": 280
+      },
+      {
+        "redni_broj_pjesme": 5,
+        "naslov_pjesme": "Heaven on Earth (The Things We've Got to Do)",
+        "trajanje_pjesme_s": 285
+      },
+      {
+        "redni_broj_pjesme": 6,
+        "naslov_pjesme": "The Deep",
+        "trajanje_pjesme_s": 263
+      },
+      {
+        "redni_broj_pjesme": 7,
+        "naslov_pjesme": "Call Me",
+        "trajanje_pjesme_s": 227
+      },
+      {
+        "redni_broj_pjesme": 8,
+        "naslov_pjesme": "Gravitation Breakdown",
+        "trajanje_pjesme_s": 255
+      },
+      {
+        "redni_broj_pjesme": 9,
+        "naslov_pjesme": "Carry Your Flag",
+        "trajanje_pjesme_s": 293
+      },
+      {
+        "redni_broj_pjesme": 10,
+        "naslov_pjesme": "Call Me Down",
+        "trajanje_pjesme_s": 271
+      },
+      {
+        "redni_broj_pjesme": 11,
+        "naslov_pjesme": "Phantoms",
+        "trajanje_pjesme_s": 219
+      },
+      {
+        "redni_broj_pjesme": 12,
+        "naslov_pjesme": "Miracle Healing",
+        "trajanje_pjesme_s": 304
+      }
+    ]
+  },
+  {
+    "album_id": 4,
+    "naziv_albuma": "Look Sharp",
+    "godina": 1988,
+    "jezik": "engleski",
+    "ocjena": 8.0,
+    "izvodac": {
+      "ime": "Roxette",
+      "drzava_izvodaca": "Švedska",
+      "godina_osnutka_izvodaca": 1986
+    },
+    "zanrovi": [
+      "Pop",
+      "Rock"
+    ],
+    "pjesme": [
+      {
+        "redni_broj_pjesme": 1,
+        "naslov_pjesme": "The Look",
+        "trajanje_pjesme_s": 237
+      },
+      {
+        "redni_broj_pjesme": 2,
+        "naslov_pjesme": "Dressed for Success",
+        "trajanje_pjesme_s": 249
+      },
+      {
+        "redni_broj_pjesme": 3,
+        "naslov_pjesme": "Sleeping Single",
+        "trajanje_pjesme_s": 278
+      },
+      {
+        "redni_broj_pjesme": 4,
+        "naslov_pjesme": "Paint",
+        "trajanje_pjesme_s": 210
+      },
+      {
+        "redni_broj_pjesme": 5,
+        "naslov_pjesme": "Dance Away",
+        "trajanje_pjesme_s": 205
+      },
+      {
+        "redni_broj_pjesme": 6,
+        "naslov_pjesme": "Cry",
+        "trajanje_pjesme_s": 319
+      },
+      {
+        "redni_broj_pjesme": 7,
+        "naslov_pjesme": "Chances",
+        "trajanje_pjesme_s": 297
+      },
+      {
+        "redni_broj_pjesme": 8,
+        "naslov_pjesme": "Dangerous",
+        "trajanje_pjesme_s": 228
+      },
+      {
+        "redni_broj_pjesme": 9,
+        "naslov_pjesme": "Half a Woman, Half a Shadow",
+        "trajanje_pjesme_s": 215
+      },
+      {
+        "redni_broj_pjesme": 10,
+        "naslov_pjesme": "View from a Hill",
+        "trajanje_pjesme_s": 220
+      },
+      {
+        "redni_broj_pjesme": 11,
+        "naslov_pjesme": "Shadow of a Doubt",
+        "trajanje_pjesme_s": 254
+      },
+      {
+        "redni_broj_pjesme": 12,
+        "naslov_pjesme": "Listen to Your Heart",
+        "trajanje_pjesme_s": 328
+      }
+    ]
+  },
+  {
+    "album_id": 5,
+    "naziv_albuma": "Joyride",
+    "godina": 1991,
+    "jezik": "engleski",
+    "ocjena": 7.3,
+    "izvodac": {
+      "ime": "Roxette",
+      "drzava_izvodaca": "Švedska",
+      "godina_osnutka_izvodaca": 1986
+    },
+    "zanrovi": [
+      "Pop",
+      "Rock"
+    ],
+    "pjesme": [
+      {
+        "redni_broj_pjesme": 1,
+        "naslov_pjesme": "Joyride",
+        "trajanje_pjesme_s": 264
+      },
+      {
+        "redni_broj_pjesme": 2,
+        "naslov_pjesme": "Hotblooded",
+        "trajanje_pjesme_s": 198
+      },
+      {
+        "redni_broj_pjesme": 3,
+        "naslov_pjesme": "Fading Like a Flower (Every Time You Leave)",
+        "trajanje_pjesme_s": 232
+      },
+      {
+        "redni_broj_pjesme": 4,
+        "naslov_pjesme": "Knockin' on Every Door",
+        "trajanje_pjesme_s": 236
+      },
+      {
+        "redni_broj_pjesme": 5,
+        "naslov_pjesme": "Spending My Time",
+        "trajanje_pjesme_s": 276
+      },
+      {
+        "redni_broj_pjesme": 6,
+        "naslov_pjesme": "I Remember You",
+        "trajanje_pjesme_s": 234
+      },
+      {
+        "redni_broj_pjesme": 7,
+        "naslov_pjesme": "Watercolours in the Rain",
+        "trajanje_pjesme_s": 220
+      },
+      {
+        "redni_broj_pjesme": 8,
+        "naslov_pjesme": "The Big L.",
+        "trajanje_pjesme_s": 266
+      },
+      {
+        "redni_broj_pjesme": 9,
+        "naslov_pjesme": "Soul Deep",
+        "trajanje_pjesme_s": 214
+      },
+      {
+        "redni_broj_pjesme": 10,
+        "naslov_pjesme": "(Do You Get) Excited?",
+        "trajanje_pjesme_s": 256
+      },
+      {
+        "redni_broj_pjesme": 11,
+        "naslov_pjesme": "Church of Your Heart",
+        "trajanje_pjesme_s": 196
+      },
+      {
+        "redni_broj_pjesme": 12,
+        "naslov_pjesme": "Small Talk",
+        "trajanje_pjesme_s": 233
+      },
+      {
+        "redni_broj_pjesme": 13,
+        "naslov_pjesme": "Physical Fascination",
+        "trajanje_pjesme_s": 207
+      },
+      {
+        "redni_broj_pjesme": 14,
+        "naslov_pjesme": "Things Will Never Be the Same",
+        "trajanje_pjesme_s": 266
+      },
+      {
+        "redni_broj_pjesme": 15,
+        "naslov_pjesme": "Perfect Day",
+        "trajanje_pjesme_s": 245
+      }
+    ]
+  },
+  {
+    "album_id": 6,
+    "naziv_albuma": "Ljubavna pjesma",
+    "godina": 1975,
+    "jezik": "hrvatski",
+    "ocjena": 7.2,
+    "izvodac": {
+      "ime": "Oliver Dragojević",
+      "drzava_izvodaca": "Hrvatska",
+      "godina_osnutka_izvodaca": 1974
+    },
+    "zanrovi": [
+      "Zabavna glazba"
+    ],
+    "pjesme": [
+      {
+        "redni_broj_pjesme": 1,
+        "naslov_pjesme": "Ljubavna pjesma",
+        "trajanje_pjesme_s": 243
+      },
+      {
+        "redni_broj_pjesme": 2,
+        "naslov_pjesme": "Picaferaj",
+        "trajanje_pjesme_s": 200
+      },
+      {
+        "redni_broj_pjesme": 3,
+        "naslov_pjesme": "Djeca jednog vijeka",
+        "trajanje_pjesme_s": 181
+      },
+      {
+        "redni_broj_pjesme": 4,
+        "naslov_pjesme": "Bila je jesen",
+        "trajanje_pjesme_s": 154
+      },
+      {
+        "redni_broj_pjesme": 5,
+        "naslov_pjesme": "Ne žuri, djevojčice",
+        "trajanje_pjesme_s": 291
+      },
+      {
+        "redni_broj_pjesme": 6,
+        "naslov_pjesme": "Ksantipa",
+        "trajanje_pjesme_s": 202
+      },
+      {
+        "redni_broj_pjesme": 7,
+        "naslov_pjesme": "Meni trebaš ti",
+        "trajanje_pjesme_s": 201
+      },
+      {
+        "redni_broj_pjesme": 8,
+        "naslov_pjesme": "Prisjećam se noćas",
+        "trajanje_pjesme_s": 134
+      },
+      {
+        "redni_broj_pjesme": 9,
+        "naslov_pjesme": "Znam da me voliš",
+        "trajanje_pjesme_s": 212
+      }
+    ]
+  },
+  {
+    "album_id": 7,
+    "naziv_albuma": "Anđeli se dosađuju?",
+    "godina": 1987,
+    "jezik": "hrvatski",
+    "ocjena": 6.0,
+    "izvodac": {
+      "ime": "Parni valjak",
+      "drzava_izvodaca": "Hrvatska",
+      "godina_osnutka_izvodaca": 1975
+    },
+    "zanrovi": [
+      "Pop",
+      "Rock"
+    ],
+    "pjesme": [
+      {
+        "redni_broj_pjesme": 1,
+        "naslov_pjesme": "Anđeli se dosađuju?",
+        "trajanje_pjesme_s": 221
+      },
+      {
+        "redni_broj_pjesme": 2,
+        "naslov_pjesme": "Anja",
+        "trajanje_pjesme_s": 211
+      },
+      {
+        "redni_broj_pjesme": 3,
+        "naslov_pjesme": "Kada me dotakne",
+        "trajanje_pjesme_s": 327
+      },
+      {
+        "redni_broj_pjesme": 4,
+        "naslov_pjesme": "Navigator",
+        "trajanje_pjesme_s": 219
+      },
+      {
+        "redni_broj_pjesme": 5,
+        "naslov_pjesme": "Jesen u meni",
+        "trajanje_pjesme_s": 270
+      },
+      {
+        "redni_broj_pjesme": 6,
+        "naslov_pjesme": "Zagreb ima isti pozivni",
+        "trajanje_pjesme_s": 231
+      },
+      {
+        "redni_broj_pjesme": 7,
+        "naslov_pjesme": "Nova kola",
+        "trajanje_pjesme_s": 288
+      },
+      {
+        "redni_broj_pjesme": 8,
+        "naslov_pjesme": "Tvoji koraci",
+        "trajanje_pjesme_s": 269
+      }
+    ]
+  },
+  {
+    "album_id": 8,
+    "naziv_albuma": "Faith",
+    "godina": 1987,
+    "jezik": "engleski",
+    "ocjena": 8.6,
+    "izvodac": {
+      "ime": "George Michael",
+      "drzava_izvodaca": "Ujedinjeno Kraljevstvo",
+      "godina_osnutka_izvodaca": 1982
+    },
+    "zanrovi": [
+      "Funk",
+      "Pop",
+      "Rock"
+    ],
+    "pjesme": [
+      {
+        "redni_broj_pjesme": 1,
+        "naslov_pjesme": "Faith",
+        "trajanje_pjesme_s": 196
+      },
+      {
+        "redni_broj_pjesme": 2,
+        "naslov_pjesme": "Father Figure",
+        "trajanje_pjesme_s": 336
+      },
+      {
+        "redni_broj_pjesme": 3,
+        "naslov_pjesme": "One More Try",
+        "trajanje_pjesme_s": 350
+      },
+      {
+        "redni_broj_pjesme": 4,
+        "naslov_pjesme": "Hard Day",
+        "trajanje_pjesme_s": 288
+      },
+      {
+        "redni_broj_pjesme": 5,
+        "naslov_pjesme": "Hand to Mouth",
+        "trajanje_pjesme_s": 276
+      },
+      {
+        "redni_broj_pjesme": 6,
+        "naslov_pjesme": "Look at Your Hands",
+        "trajanje_pjesme_s": 277
+      },
+      {
+        "redni_broj_pjesme": 7,
+        "naslov_pjesme": "Monkey",
+        "trajanje_pjesme_s": 306
+      }
+    ]
+  },
+  {
+    "album_id": 9,
+    "naziv_albuma": "Voyage",
+    "godina": 2021,
+    "jezik": "engleski",
+    "ocjena": 4.8,
+    "izvodac": {
+      "ime": "ABBA",
+      "drzava_izvodaca": "Švedska",
+      "godina_osnutka_izvodaca": 1972
+    },
+    "zanrovi": [
+      "Disco",
+      "Pop"
+    ],
+    "pjesme": [
+      {
+        "redni_broj_pjesme": 1,
+        "naslov_pjesme": "I Still Have Faith in You",
+        "trajanje_pjesme_s": 308
+      },
+      {
+        "redni_broj_pjesme": 2,
+        "naslov_pjesme": "When You Danced with Me",
+        "trajanje_pjesme_s": 169
+      },
+      {
+        "redni_broj_pjesme": 3,
+        "naslov_pjesme": "Little Things",
+        "trajanje_pjesme_s": 188
+      },
+      {
+        "redni_broj_pjesme": 4,
+        "naslov_pjesme": "Don't Shut Me Down",
+        "trajanje_pjesme_s": 239
+      },
+      {
+        "redni_broj_pjesme": 5,
+        "naslov_pjesme": "Just a Notion",
+        "trajanje_pjesme_s": 209
+      },
+      {
+        "redni_broj_pjesme": 6,
+        "naslov_pjesme": "I Can Be That Woman",
+        "trajanje_pjesme_s": 244
+      },
+      {
+        "redni_broj_pjesme": 7,
+        "naslov_pjesme": "Keep an Eye on Dan",
+        "trajanje_pjesme_s": 241
+      },
+      {
+        "redni_broj_pjesme": 8,
+        "naslov_pjesme": "Bumblebee",
+        "trajanje_pjesme_s": 237
+      },
+      {
+        "redni_broj_pjesme": 9,
+        "naslov_pjesme": "No Doubt About It",
+        "trajanje_pjesme_s": 172
+      },
+      {
+        "redni_broj_pjesme": 10,
+        "naslov_pjesme": "Ode to Freedom",
+        "trajanje_pjesme_s": 211
+      }
+    ]
+  },
+  {
+    "album_id": 10,
+    "naziv_albuma": "Forever Young",
+    "godina": 1984,
+    "jezik": "engleski",
+    "ocjena": 6.0,
+    "izvodac": {
+      "ime": "Alphaville",
+      "drzava_izvodaca": "Njemačka",
+      "godina_osnutka_izvodaca": 1982
+    },
+    "zanrovi": [
+      "Pop"
+    ],
+    "pjesme": [
+      {
+        "redni_broj_pjesme": 1,
+        "naslov_pjesme": "A Victory of Love",
+        "trajanje_pjesme_s": 254
+      },
+      {
+        "redni_broj_pjesme": 2,
+        "naslov_pjesme": "Summer in Berlin",
+        "trajanje_pjesme_s": 282
+      },
+      {
+        "redni_broj_pjesme": 3,
+        "naslov_pjesme": "Big in Japan",
+        "trajanje_pjesme_s": 280
+      },
+      {
+        "redni_broj_pjesme": 4,
+        "naslov_pjesme": "To Germany with Love",
+        "trajanje_pjesme_s": 255
+      },
+      {
+        "redni_broj_pjesme": 5,
+        "naslov_pjesme": "Fallen Angel",
+        "trajanje_pjesme_s": 235
+      },
+      {
+        "redni_broj_pjesme": 6,
+        "naslov_pjesme": "Forever Young",
+        "trajanje_pjesme_s": 225
+      },
+      {
+        "redni_broj_pjesme": 7,
+        "naslov_pjesme": "In the Mood",
+        "trajanje_pjesme_s": 269
+      },
+      {
+        "redni_broj_pjesme": 8,
+        "naslov_pjesme": "Sounds Like a Melody",
+        "trajanje_pjesme_s": 282
+      },
+      {
+        "redni_broj_pjesme": 9,
+        "naslov_pjesme": "Lies",
+        "trajanje_pjesme_s": 212
+      },
+      {
+        "redni_broj_pjesme": 10,
+        "naslov_pjesme": "The Jet Set",
+        "trajanje_pjesme_s": 292
+      }
+    ]
+  }
+]
