@@ -38,7 +38,7 @@ Nazivi atributa su isti u CSV i JSON datoteci. U CSV-u su svi atributi stupci, a
 | trajanje_pjesme_s | cijeli broj | Trajanje pjesme u sekundama |
 
 ## Licencija
-Ovaj skup podataka dostupan je pod licencijom [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en). Cijeli tekst licencije nalazi se u datoteci LICENSE.
+Ovaj skup podataka dostupan je pod licencijom [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en). Cijeli tekst licencije nalazi se u datoteci [LICENSE](https://github.com/DoroteaPerkovic/OtvorenoRacunarstvo/blob/main/LICENSE).
 
 ## Izvor
 Dio podataka (popis pjesama, trajanje pjesama i godine izdanja) preuzet je iz članaka na Wikipediji, koja je dostupna pod licencijom [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en). Podaci su izdvojeni iz članaka, prilagođeni (trajanje pjesama je pretvoreno u sekunde) i strukturirani u relacijsku bazu. Wikipedija i njezini autori ne podupiru ovaj skup podataka.
