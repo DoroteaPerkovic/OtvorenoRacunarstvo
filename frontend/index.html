@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="hr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="description"
+      content="Otvoreni skup podataka o glazbenim albumima."
+    />
+    <meta
+      name="keywords"
+      content="glazba, albumi, pjesme, izvođači, otvoreni podaci"
+    />
+    <meta name="author" content="Dorotea Perković" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Glazbeni albumi i otvoreni skup podataka</title>
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <header>
+      <h1>Glazbeni albumi</h1>
+      <p>Otvoreni skup podataka o glazbenim albumimaa.</p>
+    </header>
+
+    <main>
+      <div class="Opis sadržaja">
+        <h2>Opis otvorenih podataka</h2>
+        <p>
+          Otvoreni skup podataka o glazbenim albumima, njihovim izvođačima,
+          žanrovima i pjesmama. Obuhvaća albume na engleskom i hrvatskom jeziku
+          uz pripadajuće pjesme s rednim brojem i trajanjem. Skup je nastao kao
+          dio 1. laboratorijske vježbe iz predmeta Otvoreno računarstvo.
+        </p>
+      </div>
+      <div>
+        <h2>Struktura skupa podataka</h2>
+        <p>Skup podataka sastoji se od sljedećih tablica:</p>
+        <ul>
+          <li>izvodac</li>
+          <li>album</li>
+          <li>pjesma</li>
+          <li>zanr</li>
+          <li>album_zanr</li>
+        </ul>
+        <p>
+          Veza između tablica album i pjesme je roditelj-dijete (jedan album ima
+          više pjesama), a veza između albuma i žanrova je N:M (jedan album može
+          imati više žanrova te jedan žanr obuhvaća više albuma).
+        </p>
+        <h3>Opis atributa</h3>
+        <p>
+          Nazivi atributa su isti u CSV i JSON datoteci. U CSV-u su svi atributi
+          stupci, a u JSON-u su izvođač, žanrovi i pjesme ugniježđeni.
+        </p>
+        <table>
+          <thead>
+            <tr>
+              <th>Atribut</th>
+              <th>Tip</th>
+              <th>Opis</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>album_id</td>
+              <td>cijeli broj</td>
+              <td>Identifikator albuma</td>
+            </tr>
+            <tr>
+              <td>naziv_albuma</td>
+              <td>tekst</td>
+              <td>Naslov albuma</td>
+            </tr>
+            <tr>
+              <td>godina</td>
+              <td>cijeli broj</td>
+              <td>Godina izdanja albuma</td>
+            </tr>
+            <tr>
+              <td>jezik</td>
+              <td>tekst</td>
+              <td>Jezik na kojem su pjesme napisane (hrvatski ili engleski)</td>
+            </tr>
+            <tr>
+              <td>ocjena</td>
+              <td>decimalni broj</td>
+              <td>Subjektivna ocjena autora, između 0 i 10</td>
+            </tr>
+            <tr>
+              <td>izvodac</td>
+              <td>tekst</td>
+              <td>Ime izvođača</td>
+            </tr>
+            <tr>
+              <td>drzava_izvodaca</td>
+              <td>tekst</td>
+              <td>Država izvođača</td>
+            </tr>
+            <tr>
+              <td>godina_osnutka_izvodaca</td>
+              <td>cijeli broj</td>
+              <td>
+                Godina osnutka sastava; za solo izvođače godina početka karijere
+              </td>
+            </tr>
+            <tr>
+              <td>zanrovi</td>
+              <td>tekst</td>
+              <td>Žanrovi albuma</td>
+            </tr>
+            <tr>
+              <td>redni_broj_pjesme</td>
+              <td>cijeli broj</td>
+              <td>Redni broj pjesme na albumu</td>
+            </tr>
+            <tr>
+              <td>naslov_pjesme</td>
+              <td>tekst</td>
+              <td>Naslov pjesme</td>
+            </tr>
+            <tr>
+              <td>trajanje_pjesme_s</td>
+              <td>cijeli broj</td>
+              <td>Trajanje pjesme u sekundama</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div>
+        <h2>Preuzimanje podataka</h2>
+        <p>Podaci su dostupni za preuzimanje u sljedećim oblicima:</p>
+        <ul>
+          <li>
+            <a href="/files/glazbeni_albumi.csv" download
+              >Preuzmi CSV datoteku</a
+            >
+          </li>
+          <li>
+            <a href="/files/glazbeni_albumi.json" download
+              >Preuzmi JSON datoteku</a
+            >
+          </li>
+        </ul>
+      </div>
+
+      <div>
+        <h2>Tablica za prikaz podataka</h2>
+        <p>Tablični prikaz podataka omogućen je na sljedećoj stranici:</p>
+        <a href="datatable.html">Otvori tablicu glazbenih albuma</a>
+      </div>
+    </main>
+
+    <footer>
+      <p>
+        Dio podataka (popis pjesama, trajanje pjesama i godine izdanja) preuzet
+        je iz članaka na Wikipediji, podaci su izdvojeni iz članaka, prilagođeni
+        (trajanje pjesama je pretvoreno u sekunde) i strukturirani.
+      </p>
+      <p>
+        Ovaj skup podataka dostupan je pod licencijom
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          >CC BY-SA 4.0.</a
+        >
+      </p>
+    </footer>
+  </body>
+</html>

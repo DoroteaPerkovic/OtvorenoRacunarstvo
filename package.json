@@ -1,0 +1,26 @@
+{
+  "name": "glazbenialbumi",
+  "version": "1.0.0",
+  "description": "Otvoreni skup podataka o glazbenim albumima, njihovim izvođačima, žanrovima i pjesmama. Obuhvaća albume na engleskom i hrvatskom jeziku uz pripadajuće pjesme s rednim brojem i trajanjem. Skup je nastao kao dio 1. laboratorijske vježbe iz predmeta Otvoreno računarstvo.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoroteaPerkovic/OtvorenoRacunarstvo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DoroteaPerkovic/OtvorenoRacunarstvo/issues"
+  },
+  "homepage": "https://github.com/DoroteaPerkovic/OtvorenoRacunarstvo#readme",
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
+    "pg": "^8.23.1"
+  }
+}
