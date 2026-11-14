@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="hr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="description"
+      content="Otvoreni skup podataka o glazbenim albumima."
+    />
+    <meta
+      name="keywords"
+      content="glazba, albumi, pjesme, izvođači, otvoreni podaci"
+    />
+    <meta name="author" content="Dorotea Perković" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Glazbeni albumi i otvoreni skup podataka</title>
+
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  </head>
+
+  <body>
+    <header>
+      <h1>Glazbeni albumi</h1>
+      <nav>
+        <a href="index.html">Početna stranica</a>
+      </nav>
+    </header>
+
+    <main>
+      <h2>Tablica podataka</h2>
+
+      <p>
+        U nastavku se nalazi pregled podataka o glazbenim albumima, izvođačima,
+        žanrovima i pjesmama.
+      </p>
+
+      <section>
+        <h3>Pretraživanje podataka</h3>
+
+        <form id="searchForm">
+          <label for="searchInput">Pojam za pretraživanje:</label>
+          <input type="text" id="searchInput" placeholder="Unesite vrijednost" />
+
+          <label for="searchAttribute">Pretraži prema atributu:</label>
+          <select name ="attributes" id="searchAttribute">
+            <option value="all">Svi atributi</option>
+            <option value="album_id">ID albuma</option>
+            <option value="naziv_albuma">Naziv albuma</option>
+            <option value="godina">Godina</option>
+            <option value="jezik">Jezik</option>
+            <option value="ocjena">Ocjena</option>
+            <option value="izvodac">Izvođač</option>
+            <option value="drzava_izvodaca">Država izvođača</option>
+            <option value="godina_osnutka_izvodaca">
+              Godina osnutka izvođača
+            </option>
+            <option value="zanrovi">Žanrovi</option>
+            <option value="redni_broj_pjesme">Redni broj pjesme</option>
+            <option value="naslov_pjesme">Naslov pjesme</option>
+            <option value="trajanje_pjesme_s">Trajanje pjesme (s)</option>
+          </select>
+
+          <button type="submit">Pretraži</button>
+          <button type="reset" id="resetButton">Poništi</button>
+        </form>
+
+        <h3>Preuzmite filtirane podatke:</h3>
+
+        <div class="download-buttons">
+          <button type="button" id="downloadCSV">Preuzmi CSV</button>
+          <button type="button" id="downloadJSON">Preuzmi JSON</button>
+        </div>
+      </section>
+
+
+      <section class="table-container">
+        <table id="albumsTable">
+           <caption>Podaci o glazbenim albumima, izvođačima, žanrovima i pjesmama</caption>
+          <thead>
+            <tr id="tableHeader">
+              <th>ID</th>
+              <th>Naziv albuma</th>
+              <th>Godina</th>
+              <th>Jezik</th>
+              <th>Ocjena</th>
+              <th>Izvođač</th>
+              <th>Država izvođača</th>
+              <th>Godina osnutka izvođača</th>
+              <th>Žanrovi</th>
+              <th>Redni broj pjesme</th>
+              <th>Naslov pjesme</th>
+              <th>Trajanje pjesme (s)</th>
+            </tr>
+          </thead>
+
+          <tbody id="tableBody"></tbody>
+        </table>
+      </section>
+    </main>
+
+    <footer>
+      <p>
+        Dio podataka (popis pjesama, trajanje pjesama i godine izdanja) preuzet
+        je iz članaka na Wikipediji, podaci su izdvojeni iz članaka, prilagođeni
+        (trajanje pjesama je pretvoreno u sekunde) i strukturirani.
+      </p>
+      <p>
+        Ovaj skup podataka dostupan je pod licencijom
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          >CC BY-SA 4.0.</a
+        >
+      </p>
+    </footer>
+    <script src = "script.js"></script>
+  </body>
+</html>

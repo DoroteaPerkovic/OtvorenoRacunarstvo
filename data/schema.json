@@ -1,0 +1,118 @@
+{
+  "$id": "http://moj_projekt/glazbeni_albumi.json",
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "title": "Glazbeni albumi",
+  "description": "JSON shema za otvoreni skup podataka o glazbenim albumima.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "title": "Glazbeni album",
+    "description": "Podaci o jednom glazbenom albumu",
+    "properties": {
+      "album_id": {
+        "type": "integer",
+        "title": "ID albuma",
+        "description": "Identifikator albuma"
+      },
+      "naziv_albuma": {
+        "type": "string",
+        "title": "Naziv albuma",
+        "description": "Naslov albuma"
+      },
+      "godina": {
+        "type": "integer",
+        "title": "Godina izdanja",
+        "description": "Godina izdanja albuma"
+      },
+      "jezik": {
+        "type": "string",
+        "title": "Jezik albuma",
+        "description": "Jezik na kojem su pjesme napisane"
+      },
+      "ocjena": {
+        "type": "number",
+        "title": "Ocjena albuma",
+        "description": "Subjektivna ocjena autora o albumu"
+      },
+      "izvodac": {
+        "type": "object",
+        "title": "Izvođač",
+        "description": "Podaci o izvođaču glazbenog albuma",
+        "properties": {
+          "ime": {
+            "type": "string",
+            "title": "Ime izvođača",
+            "description": "Naziv ili ime glazbenog izvođača"
+          },
+          "drzava_izvodaca": {
+            "type": "string",
+            "title": "Država izvođača",
+            "description": "Država iz koje izvođač potječe"
+          },
+          "godina_osnutka_izvodaca": {
+            "type": "integer",
+            "title": "Godina osnutka izvođača",
+            "description": "Godina osnutka sastava; za solo izvođače godina početka karijere"
+          }
+        },
+        "required": [
+          "ime",
+          "drzava_izvodaca",
+          "godina_osnutka_izvodaca"
+        ]
+      },
+      "zanrovi": {
+        "type": "array",
+        "title": "Žanrovi albuma",
+        "description": "Popis glazbenih žanrova kojima album pripada",
+        "items": {
+          "type": "string",
+          "title": "Žanr",
+            "description": "Naziv glazbenog žanra."
+        }
+      },
+      "pjesme": {
+        "type": "array",
+        "title": "Pjesme albuma",
+        "description": "Popis pjesama koje se nalaze na albumu",
+        "items": {
+          "type": "object",
+          "title": "Pjesma",
+            "description": "Podaci o pojedinoj pjesmi na albumu",
+          "properties": {
+            "redni_broj_pjesme": {
+              "type": "integer",
+              "title": "Redni broj pjesme",
+              "description": "Redni broj pjesme na albumu"
+            },
+            "naslov_pjesme": {
+              "type": "string",
+              "title": "Naslov pjesme",
+              "description": "Naziv pjesme"
+            },
+            "trajanje_pjesme_s": {
+              "type": "integer",
+              "title": "Trajanje pjesme u sekundama",
+              "description": "Trajanje pjesme u sekundama"
+            }
+          },
+          "required": [
+            "redni_broj_pjesme",
+            "naslov_pjesme",
+            "trajanje_pjesme_s"
+          ]
+        }
+      }
+    },
+    "required": [
+      "album_id",
+      "naziv_albuma",
+      "godina",
+      "jezik",
+      "ocjena",
+      "izvodac",
+      "zanrovi",
+      "pjesme"
+    ]
+  }
+}
